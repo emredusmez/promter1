@@ -6,12 +6,12 @@ prompter1 is a open source prompter software
 
 # Properties
 
--Mirror mode
--Text editor
--Change flow rate
--Inverse flow
--Live text editing
--Change background color
+-Mirror mode <br>
+-Text editor <br>
+-Change flow speed <br>
+-Inverse flow <br>
+-Live text editing <br>
+-Change background color <br>
 
 
 # Screenshots
