@@ -2,7 +2,7 @@
 
 # What is prompter1 ?
 
-prompter1 is open source prompter software
+prompter1 is a open source prompter software
 
 # Properties
 
