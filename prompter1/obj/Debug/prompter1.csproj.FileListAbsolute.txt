@@ -1,0 +1,41 @@
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\bin\Debug\prompter1.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\bin\Debug\prompter1.exe
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\bin\Debug\prompter1.pdb
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\bin\Debug\DevComponents.DotNetBar.Design.dll
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\bin\Debug\DevComponents.Instrumentation.Design.dll
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\bin\Debug\DevComponents.Instrumentation.dll
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\obj\Debug\prompter1.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\obj\Debug\prompter1.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\obj\Debug\prompter1.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\obj\Debug\prompter1.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\obj\Debug\prompter1.exe
+c:\users\emre\documents\visual studio 2017\Projects\prompter1\prompter1\obj\Debug\prompter1.pdb
+C:\Users\fetih\Desktop\prompter1\prompter1\bin\Debug\prompter1.exe.config
+C:\Users\fetih\Desktop\prompter1\prompter1\obj\Debug\prompter1.exe
+C:\Users\fetih\Desktop\prompter1\prompter1\obj\Debug\prompter1.pdb
+C:\Users\fetih\Desktop\prompter1\prompter1\bin\Debug\prompter1.exe
+C:\Users\fetih\Desktop\prompter1\prompter1\bin\Debug\prompter1.pdb
+C:\Users\fetih\Desktop\prompter1\prompter1\obj\Debug\prompter1.csprojResolveAssemblyReference.cache
+C:\Users\fetih\Desktop\prompter1\prompter1\obj\Debug\prompter1.Form1.resources
+C:\Users\fetih\Desktop\prompter1\prompter1\obj\Debug\prompter1.Properties.Resources.resources
+C:\Users\fetih\Desktop\prompter1\prompter1\obj\Debug\prompter1.csproj.GenerateResource.Cache
+C:\Users\fetih\Desktop\prompter1\prompter1\obj\Debug\prompter1.OynatmaForm.resources
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\prompter1.exe.config
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\prompter1.exe
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\prompter1.pdb
+C:\Users\emre\Desktop\prompter1\prompter1\obj\Debug\prompter1.Form1.resources
+C:\Users\emre\Desktop\prompter1\prompter1\obj\Debug\prompter1.OynatmaForm.resources
+C:\Users\emre\Desktop\prompter1\prompter1\obj\Debug\prompter1.Properties.Resources.resources
+C:\Users\emre\Desktop\prompter1\prompter1\obj\Debug\prompter1.csproj.GenerateResource.Cache
+C:\Users\emre\Desktop\prompter1\prompter1\obj\Debug\prompter1.exe
+C:\Users\emre\Desktop\prompter1\prompter1\obj\Debug\prompter1.pdb
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\DevExpress.Office.v14.1.Core.dll
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\DevExpress.XtraRichEdit.v14.1.dll
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\DevExpress.XtraRichEdit.v14.1.Extensions.dll
+C:\Users\emre\Desktop\prompter1\prompter1\obj\Debug\prompter1.csprojResolveAssemblyReference.cache
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\LiveSwitch.TextControl.exe
+C:\Users\emre\Desktop\prompter1\prompter1\bin\Debug\LiveSwitch.TextControl.pdb
+C:\Users\emre\Desktop\prompter1\prompter1\obj\Debug\prompter1.yardim.resources
